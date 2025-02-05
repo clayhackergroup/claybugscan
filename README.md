@@ -1,5 +1,4 @@
----
-
+  ![Welcome Banner](banner.png)
 Clays Scan 1.2
 
 Web Vulnerability Scanner Tool
@@ -87,12 +86,16 @@ git clone https://github.com/clayhackergroup/claybugscan
 
 2. Navigate to the directory:
 
-cd clays-scan
+cd claybugscan
 
 
 3. Run the script:
 
-./clays_scan.sh
+python3 launch.py
+
+4. Choose tool to run
+
+5. Enjoy tool
 
 
 
@@ -108,7 +111,4 @@ Telegram: @claygroup23
 
 
 
----
-
-Let me know if you want this file in .md format to download or if you want to add more customization!
 
