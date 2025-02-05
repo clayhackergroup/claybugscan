@@ -1,4 +1,4 @@
-  ![Welcome Banner](banner.png)
+(IMG_20240911_141041_910.jpg)
 Clays Scan 1.2
 
 Web Vulnerability Scanner Tool
